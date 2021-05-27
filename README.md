@@ -44,9 +44,9 @@ react-app  use this image
 a2sw fist digits of container id 
 
 ### Start and Stop of container
-
-``` docker stop a2sw ````
-   ``` docker start a2sw ````
+````
+``` docker stop a2sw ```
+   ``` docker start a2sw ```
 
 ### Remove container then the image
 
@@ -61,3 +61,4 @@ For Reference
 --------------
 
 [Docker Handbook](https://docker.farhan.info/hello-world-in-docker#container)
+````
